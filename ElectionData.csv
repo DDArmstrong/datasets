@@ -1,12 +1,12 @@
-﻿ State , District , State    , Winner             , Party , Winner % , Winner Votes , Loser               , Party , Loser % , Loser Votes , Population , Turnout % , Margin % , Male % , White % , Black % , Asian % , Native American % , Pacific Islander % , Hispanic % , Median Income , High School Graduates % , College Graduates % 
- MD    ,1, Maryland , Andy Harris        , R     ,54.43,"159,673", Heather Mizeur      , D     ,43.13,"126,511","720,000",40,11.3,49.2,64.3,28.9,3.2,0.4,0.1,3,"$75,000 ",88,35
- MD    ,2, Maryland , Dutch Ruppersberger, D     ,59.23,"158,998", Nicolee Ambrose     , R     ,40.63,"109,075","730,000",39.5,18.6,48.8,55,33.1,4.5,0.5,0.1,4.2,"$78,000 ",89,37
- MD    ,3, Maryland , John Sarbanes      , D     ,60.19,"175,514", Yuripzy Morgan      , R     ,39.71,"115,801","710,000",41.2,20.6,48.6,53.4,34,5,0.3,0.1,5.2,"$82,000 ",90,40
- MD    ,4, Maryland , Glenn Ivey         , D     ,90.1,"144,168", Jeff Warner         , R     ,9.65,"15,441","720,000",39,80.5,46.7,19.5,69.5,3,0.2,0.1,5,"$85,000 ",91,42
- MD    ,5, Maryland , Steny Hoyer        , D     ,65.9,"182,478", Chris Palombi       , R     ,33.94,"94,000","725,000",40.5,31.9,49.3,48.3,41.2,4.1,0.3,0.1,6.1,"$79,000 ",88.5,38
- MD    ,6, Maryland , David Trone        , D     ,54.72,"140,295", Neil Parrott        , R     ,45.15,"115,771","710,000",39.5,9.6,48.4,65.5,24.5,4,0.4,0.1,4.5,"$83,000 ",90.5,41
- MD    ,7, Maryland , Kweisi Mfume       , D     ,70.2,"245,760", Scott Collier       , R     ,29.8,"104,220","715,000",39,40.4,46.5,17.5,75,2.5,0.3,0.1,4.5,"$76,000 ",87,35.5
- MD    ,8, Maryland , Jamie Raskin       , D     ,73.8,"275,230", Gregory Coll        , R     ,26.2,"97,560","705,000",39.2,47.6,47.5,54,31.5,6,0.2,0.1,6,"$84,000 ",91.5,42.5
+﻿ State,District,State,Winner,Party,Winner %,Winner Votes,Loser,Party,Loser %,Loser Votes,Population,Turnout %,Margin %,Male %,White %,Black %,Asian %,Native American %,Pacific Islander %,Hispanic %,Median Income,High School Graduates %,College Graduates % 
+ MD,1,Maryland,Andy Harris,R,54.43,"159,673",Heather Mizeur,D,43.13,"126,511","720,000",40,11.3,49.2,64.3,28.9,3.2,0.4,0.1,3,"$75,000 ",88,35
+ MD,2,Maryland,Dutch Ruppersberger,D,59.23,"158,998",Nicolee Ambrose,R,40.63,"109,075","730,000",39.5,18.6,48.8,55,33.1,4.5,0.5,0.1,4.2,"$78,000 ",89,37
+ MD,3,Maryland,John Sarbanes,D,60.19,"175,514",Yuripzy Morgan,R,39.71,"115,801","710,000",41.2,20.6,48.6,53.4,34,5,0.3,0.1,5.2,"$82,000 ",90,40
+ MD,4,Maryland,Glenn Ivey,D,90.1,"144,168",Jeff Warner,R,9.65,"15,441","720,000",39,80.5,46.7,19.5,69.5,3,0.2,0.1,5,"$85,000 ",91,42
+ MD,5,Maryland,Steny Hoyer,D,65.9,"182,478",Chris Palombi,R,33.94,"94,000","725,000",40.5,31.9,49.3,48.3,41.2,4.1,0.3,0.1,6.1,"$79,000 ",88.5,38
+ MD,6,Maryland,David Trone,D,54.72,"140,295",Neil Parrott,R,45.15,"115,771","710,000",39.5,9.6,48.4,65.5,24.5,4,0.4,0.1,4.5,"$83,000 ",90.5,41
+ MD,7,Maryland,Kweisi Mfume,D,70.2,"245,760",Scott Collier,R,29.8,"104,220","715,000",39,40.4,46.5,17.5,75,2.5,0.3,0.1,4.5,"$76,000 ",87,35.5
+ MD,8,Maryland,Jamie Raskin,D,73.8,"275,230",Gregory Coll,R,26.2,"97,560","705,000",39.2,47.6,47.5,54,31.5,6,0.2,0.1,6,"$84,000 ",91.5,42.5
 AL,1,AL,Jerry Carl,R,63.4,144514,Alexander Remrey,L,29.3,66576,713000,40.2,34.1,48.8,68.3,25.4,2.3,0.4,0.1,3.1,60000,88.7,25.5
 AL,2,AL,Barry Moore,R,69,137193,Phyllis Harvey-Hall,D,31,61477,710000,39.5,38,48.6,67.2,27.3,2.6,0.3,0.1,4,58000,86,26
 AL,3,AL,Mike Rogers,R,65.2,169360,Lin Veasey,D,34.8,90504,707000,40.8,30.4,49.1,66.8,28.1,2.5,0.3,0.1,2.8,62000,89.5,27.5
